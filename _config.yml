@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/kushal.agrawal.1042
-twitter: https://twitter.com/KushalAgrawal14
-instagram: https://www.instagram.com/kagrawal61/
+facebook: kushal.agrawal.1042
+twitter: KushalAgrawal14
+instagram: kagrawal61
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/kushal-agrawal-a6a0b5127/
+linkedin: kushal-agrawal-a6a0b5127
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/kushal98
+github: kushal98
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +50,7 @@ github: https://github.com/kushal98
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: kagrawal61@gmail.com
 
 authors:
   kushalagrawal:
@@ -80,7 +80,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
