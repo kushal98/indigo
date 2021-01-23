@@ -13,8 +13,6 @@ author: kushalagrawal
 description: Javascript Shortcut Techniques
 ---
 
-<img alt="Image for post" class="fd er en hh w" src="https://miro.medium.com/max/3200/1\*Llp0NKRQruyekQKqxwPF7w.png" width="1600" height="686" srcSet="https://miro.medium.com/max/552/1\*Llp0NKRQruyekQKqxwPF7w.png 276w, https://miro.medium.com/max/1104/1\*Llp0NKRQruyekQKqxwPF7w.png 552w, https://miro.medium.com/max/1280/1\*Llp0NKRQruyekQKqxwPF7w.png 640w, https://miro.medium.com/max/1456/1\*Llp0NKRQruyekQKqxwPF7w.png 728w, https://miro.medium.com/max/1632/1\*Llp0NKRQruyekQKqxwPF7w.png 816w, https://miro.medium.com/max/1808/1\*Llp0NKRQruyekQKqxwPF7w.png 904w, https://miro.medium.com/max/1984/1\*Llp0NKRQruyekQKqxwPF7w.png 992w, https://miro.medium.com/max/2160/1\*Llp0NKRQruyekQKqxwPF7w.png 1080w, https://miro.medium.com/max/2700/1\*Llp0NKRQruyekQKqxwPF7w.png 1350w, https://miro.medium.com/max/3200/1\*Llp0NKRQruyekQKqxwPF7w.png 1600w" sizes="1600px"/>
-
 In this article I’ll share a few things I learned in JavaScript that I wished I had learned sooner. I’m not saying you should or shouldn’t use these techniques. Just that they exist, and understanding them will hopefully help you along.
 
 The Ternary Operator
