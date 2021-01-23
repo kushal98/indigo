@@ -1,15 +1,17 @@
-Javascript Shortcut Techniques
-==============================
-
-[![Kushal Agrawal](https://miro.medium.com/fit/c/56/56/0*RuI-ZaGPBfELLERz.)](https://medium.com/?source=post_page-----3c0b9ee04977--------------------------------)[      
-
-#### Kushal Agrawal
-
-](https://medium.com/?source=post_page-----3c0b9ee04977--------------------------------)[
-
-#### Just now·6 min read
-
-](https://medium.com/javascript-shortcut-techniques-3c0b9ee04977?source=post_page-----3c0b9ee04977--------------------------------)
+---
+title: "Javascript Shortcut Techniques"
+layout: post
+date: 2021-01-23 16:20
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- javascript techniques
+- javascript 
+star: true
+category: blog
+author: kushalagrawal
+description: Javascript Shortcut Techniques
+---
 
 <img alt="Image for post" class="fd er en hh w" src="https://miro.medium.com/max/3200/1\*Llp0NKRQruyekQKqxwPF7w.png" width="1600" height="686" srcSet="https://miro.medium.com/max/552/1\*Llp0NKRQruyekQKqxwPF7w.png 276w, https://miro.medium.com/max/1104/1\*Llp0NKRQruyekQKqxwPF7w.png 552w, https://miro.medium.com/max/1280/1\*Llp0NKRQruyekQKqxwPF7w.png 640w, https://miro.medium.com/max/1456/1\*Llp0NKRQruyekQKqxwPF7w.png 728w, https://miro.medium.com/max/1632/1\*Llp0NKRQruyekQKqxwPF7w.png 816w, https://miro.medium.com/max/1808/1\*Llp0NKRQruyekQKqxwPF7w.png 904w, https://miro.medium.com/max/1984/1\*Llp0NKRQruyekQKqxwPF7w.png 992w, https://miro.medium.com/max/2160/1\*Llp0NKRQruyekQKqxwPF7w.png 1080w, https://miro.medium.com/max/2700/1\*Llp0NKRQruyekQKqxwPF7w.png 1350w, https://miro.medium.com/max/3200/1\*Llp0NKRQruyekQKqxwPF7w.png 1600w" sizes="1600px"/>
 
